@@ -15,7 +15,7 @@
    
        <!-- contenido de la app de typescript -->
       <div id="app"></div>
-      <script type="module" crossorigin src="./assets/index-CGXOHzt9.js"></script>
+      <script type="module" crossorigin src="./assets/index-CQNDF-Wv.js"></script>
          
     
   </body>
