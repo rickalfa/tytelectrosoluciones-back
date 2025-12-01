@@ -7,7 +7,7 @@
 
    
 
-     <link rel="stylesheet" crossorigin href="./assets/index-DPs33B24.css">
+     <link rel="stylesheet" crossorigin href="./assets/index-DZqMMEiO.css">
 
 
   </head>
@@ -15,7 +15,7 @@
    
        <!-- contenido de la app de typescript -->
       <div id="app"></div>
-      <script type="module" crossorigin src="./assets/index-CQNDF-Wv.js"></script>
+      <script type="module" crossorigin src="./assets/index-FZ5fU3Sz.js"></script>
          
     
   </body>
