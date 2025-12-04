@@ -26,7 +26,7 @@ var e=Object.defineProperty,t=t=>{let n={};for(var r in t)e(n,r,{get:t[r],enumer
 
               <hr>
               
-              <div class="overflow-auto altura-dinamica-scroll" >
+              <div class="overflow-auto altura-dinamica-scroll pb-2" >
                 <p class="fs-1 fs-md-4">${e.description}</p> 
               </div>
 

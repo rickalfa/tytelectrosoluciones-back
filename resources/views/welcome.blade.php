@@ -6,8 +6,9 @@
     <title>TyT ElectroSoluciones - Contacto</title>
 
    
+<link rel="icon" type="image/png" href="/img/tyt_favicon.png" />
 
-     <link rel="stylesheet" crossorigin href="./assets/index-DZqMMEiO.css">
+     <link rel="stylesheet" crossorigin href="./assets/styles.css">
 
 
   </head>
@@ -15,7 +16,7 @@
    
        <!-- contenido de la app de typescript -->
       <div id="app"></div>
-      <script type="module" crossorigin src="./assets/index-FZ5fU3Sz.js"></script>
+      <script type="module" crossorigin src="./assets/module.js"></script>
          
     
   </body>
